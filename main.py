@@ -46,4 +46,4 @@ async def help(ctx):
 
 #HELP COMMAND ENDS HERE -----------------------------------------------------------------------------------------------------
 
-bot.run('ODgxMDc0MDA3OTcyMTQ3MjEw.YSniHQ.mVkJdr0CHeEBnGCl2BAEdiEMrkU')
+bot.run('Token')
